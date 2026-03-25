@@ -10,7 +10,6 @@
     src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.4/Chart.js">
 </script>
 <body>
-    <!-- <ul id="BanenVanWerknemersInDecember"></ul> -->
     <div id="main_container">
         <div class="graph_container">
             <h2 class="graph_title">Aantal werknemers ICT in Flevoland</h2>
@@ -27,9 +26,6 @@
             </div>
         </div>     
     </div>
-
-    <!-- <script src="aw_ICT_F.js"></script> 3e script is beter
-    <script src="ov_ICT_F.js"></script> 3e script is beter-->
     <script src="js/odata_graph.js"></script>
 </body>
 </html>
