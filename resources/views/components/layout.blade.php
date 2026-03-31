@@ -7,7 +7,8 @@
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-    
+    <x-nav_links>
+    </x-nav_links>
     {{$slot}}
 </body>
 </html>

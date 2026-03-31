@@ -3,12 +3,22 @@
 }
 
 body {
+    display: flex;
+    flex-direction: column;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: white;
     display: flex;
     background: #5EA38E;
     background: linear-gradient(90deg, rgba(94, 163, 142, 1) 10%, rgba(60, 92, 69, 1) 50%, rgba(94, 163, 142, 1) 90%);
-    justify-content: center;
+    align-items: center;
+}
+
+#header {
+    background-color: rgb(255, 255, 255);
+    width:100%;
+    height:100px;
+    border-bottom: #287e64 solid 5px;
+    color:#287e64;
 }
 
 #main_container {
