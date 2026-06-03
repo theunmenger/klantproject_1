@@ -1,6 +1,6 @@
 <x-layout>
     <script
-        src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.4/Chart.js">
+    src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.4/Chart.js">
     </script>
     <div id="main_container">
         <div class="graph_container">
@@ -19,4 +19,5 @@
         </div>     
     </div>
     <script src="js/odata_graph.js"></script>
+    <script src="js/duo_graph.js"></script>
 </x-layout>
